@@ -1,4 +1,4 @@
-module github.com/example/sample-controller
+module github.com/prakashpc/sample-controller
 
 go 1.15
 
